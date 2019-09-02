@@ -101,10 +101,13 @@ venv.bak/
 # mkdocs documentation
 /site
 
+#ide setting
+.idea/
+
 # mypy
 .mypy_cache/
 
-frontpage
+#frontpage
 # Logs
 logs
 *.log
